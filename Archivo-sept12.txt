@@ -1,2 +1,2 @@
 una linea
-me parece que aqui tiene que ir el nombre del autor
+Author: Jorge
